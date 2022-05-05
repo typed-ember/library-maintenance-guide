@@ -1,0 +1,5 @@
+root: content
+
+structure:
+  readme: _index.md
+  summary: _contents.md
